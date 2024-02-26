@@ -1,0 +1,1430 @@
+{
+  "created": "2024-02-26T13:16:32.585Z",
+  "count": 469,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "ce71001c-f8c5-44b2-9c25-589693b64a22",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Music of the Sun",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "aefe7de5-11df-38c3-97f5-13df615870fd",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Music of the Sun",
+        "primary-type": "Album"
+      },
+      "date": "2005-08-29",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "2005-08-29",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": ["GB"]
+          }
+        }
+      ],
+      "barcode": "602498851463",
+      "asin": "B000ATITYA",
+      "label-info": [
+        {
+          "label": {
+            "id": "5664c7ca-002a-458b-943e-abbcd7993f22",
+            "name": "SRP Records"
+          }
+        },
+        {
+          "catalog-number": "988146",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 14,
+      "media": [{ "format": "CD", "disc-count": 1, "track-count": 14 }]
+    },
+    {
+      "id": "4f236211-f41a-41a6-9b55-00e6d0a7778f",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Umbrella",
+      "status": "Official",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "735f045f-55b7-3e3d-ae56-c27dea6a81c8",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "Umbrella",
+        "primary-type": "Single"
+      },
+      "date": "2007-05-28",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "2007-05-28",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": ["GB"]
+          }
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+            "name": "Mercury Records"
+          }
+        }
+      ],
+      "track-count": 1,
+      "media": [
+        { "format": "Digital Media", "disc-count": 0, "track-count": 1 }
+      ]
+    },
+    {
+      "id": "7bac4449-eeb1-3917-8c8c-b369e5b2b8f7",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "count": 2,
+      "title": "Good Girl Gone Bad: Reloaded",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "7e48f018-b774-32e6-a68b-b42db04535c0",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Good Girl Gone Bad",
+        "primary-type": "Album"
+      },
+      "date": "2008-06-21",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "2008-06-21",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": ["GB"]
+          }
+        }
+      ],
+      "barcode": "602517741454",
+      "label-info": [
+        {
+          "label": {
+            "id": "5664c7ca-002a-458b-943e-abbcd7993f22",
+            "name": "SRP Records"
+          }
+        },
+        {
+          "catalog-number": "1774145",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        },
+        {
+          "label": {
+            "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+            "name": "Mercury Records"
+          }
+        }
+      ],
+      "track-count": 17,
+      "media": [
+        { "format": "CD", "disc-count": 1, "track-count": 16 },
+        { "format": "DVD-Video", "disc-count": 0, "track-count": 1 }
+      ]
+    },
+    {
+      "id": "1bf9767f-1188-43f5-a904-3f881cd5953f",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Disturbia",
+      "status": "Official",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "1ecd33e3-46a5-382c-a7f4-0ac4a3b96ee6",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "Disturbia",
+        "primary-type": "Single"
+      },
+      "date": "2008-10-20",
+      "country": "FR",
+      "release-events": [
+        {
+          "date": "2008-10-20",
+          "area": {
+            "id": "08310658-51eb-3801-80de-5a0739207115",
+            "name": "France",
+            "sort-name": "France",
+            "iso-3166-1-codes": ["FR"]
+          }
+        }
+      ],
+      "barcode": "602517871397",
+      "asin": "B001GDJ94S",
+      "label-info": [
+        {
+          "catalog-number": "E63138",
+          "label": {
+            "id": "c9ecb3cf-ed8c-4f48-b99a-7d63ed12d89b",
+            "name": "The Island Def Jam Music Group"
+          }
+        }
+      ],
+      "track-count": 2,
+      "media": [{ "format": "CD", "disc-count": 1, "track-count": 2 }]
+    },
+    {
+      "id": "fe495e05-7860-4e2e-9e64-ac020366b74c",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Rated R",
+      "status": "Official",
+      "disambiguation": "explicit",
+      "packaging": "Jewel Case",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "06fda337-5c4b-42e0-a96c-a349c786965f",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Rated R",
+        "primary-type": "Album"
+      },
+      "date": "2009-11-23",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2009-11-23",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": ["US"]
+          }
+        }
+      ],
+      "barcode": "602527283715",
+      "asin": "B002UXRH10",
+      "label-info": [
+        {
+          "catalog-number": "B0013827-02",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 13,
+      "media": [{ "format": "CD", "disc-count": 2, "track-count": 13 }]
+    },
+    {
+      "id": "b415d412-e9c6-4e72-bc11-9c2e2e60326a",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 2,
+      "title": "Loud",
+      "status": "Official",
+      "disambiguation": "deluxe edition",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "7c6de97d-bf6a-4793-82f5-f142baed33e6",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Loud",
+        "primary-type": "Album"
+      },
+      "date": "2010-11-16",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2010-11-16",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": ["US"]
+          }
+        }
+      ],
+      "barcode": "602527523668",
+      "asin": "B00428ZRFY",
+      "label-info": [
+        {
+          "catalog-number": "B0014928-00",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 21,
+      "media": [
+        { "format": "CD", "disc-count": 2, "track-count": 11 },
+        { "format": "DVD-Video", "disc-count": 0, "track-count": 10 }
+      ]
+    },
+    {
+      "id": "5498088d-27ff-4029-ac26-d557fc4c28aa",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "S&M",
+      "status": "Official",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "a9db13b6-cac9-4c05-b47f-be965c064064",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "S&M",
+        "primary-type": "Single"
+      },
+      "date": "2011-02-21",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "2011-02-21",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": ["GB"]
+          }
+        }
+      ],
+      "asin": "B004PQODI0",
+      "track-count": 3,
+      "media": [
+        { "format": "Digital Media", "disc-count": 0, "track-count": 3 }
+      ]
+    },
+    {
+      "id": "7cf9aa44-f48a-4485-98bf-7f326e33fe00",
+      "score": 100,
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "count": 1,
+      "title": "The Woman in Black",
+      "status": "Bootleg",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "8b7a50c2-6abe-44fd-bad3-802106a82426",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "The Woman in Black",
+        "primary-type": "Album",
+        "secondary-types": ["Compilation"],
+        "secondary-type-ids": ["dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"]
+      },
+      "track-count": 16,
+      "media": [
+        { "format": "Digital Media", "disc-count": 0, "track-count": 16 }
+      ]
+    },
+    {
+      "id": "1fc5ad73-1d62-429a-bcef-17ac01ac2a4e",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Unapologetic",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "1ab3ba95-bc96-46f4-bc6d-1e57bc6ad1a0",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Unapologetic",
+        "primary-type": "Album"
+      },
+      "date": "2012-11-19",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "2012-11-19",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": ["GB"]
+          }
+        }
+      ],
+      "barcode": "602537222360",
+      "label-info": [
+        {
+          "label": {
+            "id": "7204e52a-64c8-4a48-9bca-079359ee9d3f",
+            "name": "Roc Nation"
+          }
+        },
+        {
+          "label": {
+            "id": "5664c7ca-002a-458b-943e-abbcd7993f22",
+            "name": "SRP Records"
+          }
+        },
+        {
+          "catalog-number": "3722236",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 14,
+      "media": [{ "format": "CD", "disc-count": 1, "track-count": 14 }],
+      "tags": [{ "count": 1, "name": "unapologetic rihanna" }]
+    },
+    {
+      "id": "480057ac-78ca-452a-af3c-6cb7e902bfe3",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "dfb7da53-866f-4dfd-a016-80bafaeff3db",
+      "count": 2,
+      "title": "A Girl Like Me",
+      "status": "Official",
+      "packaging": "Super Jewel Box",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "51797d3d-7071-30ee-9fb3-d60aad857ef0",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "A Girl Like Me",
+        "primary-type": "Album"
+      },
+      "date": "2006",
+      "country": "XE",
+      "release-events": [
+        {
+          "date": "2006",
+          "area": {
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "name": "Europe",
+            "sort-name": "Europe",
+            "iso-3166-1-codes": ["XE"]
+          }
+        }
+      ],
+      "barcode": "0602517170483",
+      "asin": "B000K2Q95I",
+      "label-info": [
+        {
+          "label": {
+            "id": "5664c7ca-002a-458b-943e-abbcd7993f22",
+            "name": "SRP Records"
+          }
+        },
+        {
+          "catalog-number": "0602517170483",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 19,
+      "media": [
+        { "format": "CD", "disc-count": 0, "track-count": 14 },
+        { "format": "CD", "disc-count": 1, "track-count": 5 }
+      ]
+    },
+    {
+      "id": "154df106-5723-4734-ab70-8b3a617895d6",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+      "count": 1,
+      "title": "Rehab",
+      "status": "Official",
+      "packaging": "Slim Jewel Case",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "e8512ffe-f8d9-41ad-b24b-8a5e75fd1a33",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "Rehab",
+        "primary-type": "Single"
+      },
+      "date": "2009-01-09",
+      "country": "DE",
+      "release-events": [
+        {
+          "date": "2009-01-09",
+          "area": {
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+            "name": "Germany",
+            "sort-name": "Germany",
+            "iso-3166-1-codes": ["DE"]
+          }
+        }
+      ],
+      "barcode": "0602517962330",
+      "label-info": [
+        {
+          "catalog-number": "0602517962330",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 2,
+      "media": [{ "format": "CD", "disc-count": 0, "track-count": 2 }]
+    },
+    {
+      "id": "40a0f4ac-cecf-479e-8e09-e6b36a938df9",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "count": 1,
+      "title": "American Oxygen",
+      "status": "Official",
+      "packaging": "None",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "1319ef80-c4de-42dc-9973-8e5ea781f327",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "American Oxygen",
+        "primary-type": "Single"
+      },
+      "date": "2015-04-14",
+      "country": "XW",
+      "release-events": [
+        {
+          "date": "2015-04-14",
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]",
+            "sort-name": "[Worldwide]",
+            "iso-3166-1-codes": ["XW"]
+          }
+        }
+      ],
+      "barcode": "851365006288",
+      "label-info": [
+        {
+          "label": {
+            "id": "f25314ce-f24a-4d80-9b26-e0181f6bd831",
+            "name": "Rihanna"
+          }
+        },
+        {
+          "label": {
+            "id": "7204e52a-64c8-4a48-9bca-079359ee9d3f",
+            "name": "Roc Nation"
+          }
+        }
+      ],
+      "track-count": 1,
+      "media": [
+        { "format": "Digital Media", "disc-count": 0, "track-count": 1 }
+      ]
+    },
+    {
+      "id": "020fd022-6d67-49bd-995e-d592a091f9df",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+      "count": 1,
+      "title": "ANTI",
+      "status": "Official",
+      "disambiguation": "初回生産限定スペシャル・プライス盤",
+      "packaging": "Digipak",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "0c482acd-35a2-466b-b833-ef5f2f1297d4",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "ANTI",
+        "primary-type": "Album"
+      },
+      "date": "2016-02-10",
+      "country": "JP",
+      "release-events": [
+        {
+          "date": "2016-02-10",
+          "area": {
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "name": "Japan",
+            "sort-name": "Japan",
+            "iso-3166-1-codes": ["JP"]
+          }
+        }
+      ],
+      "barcode": "4988005884589",
+      "asin": "B01B7NUSKA",
+      "label-info": [
+        {
+          "catalog-number": "UICD-9077",
+          "label": {
+            "id": "4ef2a03c-57ae-4571-b23a-3fb29b9caa11",
+            "name": "Universal International"
+          }
+        }
+      ],
+      "track-count": 16,
+      "media": [{ "format": "CD", "disc-count": 0, "track-count": 16 }]
+    },
+    {
+      "id": "03e6a66a-041e-444b-8048-0c30b0d9b7fb",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Music of the Sun",
+      "status": "Official",
+      "disambiguation": "Limited Edition",
+      "packaging": "Jewel Case",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "aefe7de5-11df-38c3-97f5-13df615870fd",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Music of the Sun",
+        "primary-type": "Album"
+      },
+      "date": "2012-08-01",
+      "country": "JP",
+      "release-events": [
+        {
+          "date": "2012-08-01",
+          "area": {
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "name": "Japan",
+            "sort-name": "Japan",
+            "iso-3166-1-codes": ["JP"]
+          }
+        }
+      ],
+      "barcode": "4988005723482",
+      "label-info": [
+        {
+          "label": {
+            "id": "5664c7ca-002a-458b-943e-abbcd7993f22",
+            "name": "SRP Records"
+          }
+        },
+        {
+          "catalog-number": "UICY-20337",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [{ "format": "SHM-CD", "disc-count": 1, "track-count": 15 }]
+    },
+    {
+      "id": "d9bed87d-3308-48c1-b12e-da9ed7fbd405",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "count": 1,
+      "title": "Love on the Brain (Dance Remixes)",
+      "status": "Official",
+      "packaging": "None",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "b829b2e0-dcd0-47f8-9b54-f22fd079c49b",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "Love on the Brain (Dance Remixes)",
+        "primary-type": "Single",
+        "secondary-types": ["Remix"],
+        "secondary-type-ids": ["0c60f497-ff81-3818-befd-abfc84a4858b"]
+      },
+      "date": "2016-10-17",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2016-10-17",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": ["US"]
+          }
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "id": "7204e52a-64c8-4a48-9bca-079359ee9d3f",
+            "name": "Roc Nation"
+          }
+        }
+      ],
+      "track-count": 4,
+      "media": [
+        { "format": "Digital Media", "disc-count": 0, "track-count": 4 }
+      ]
+    },
+    {
+      "id": "e694ab4d-104b-48cf-8be3-b1ec6964443f",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Good Girl Gone Bad: Reloaded",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "7e48f018-b774-32e6-a68b-b42db04535c0",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Good Girl Gone Bad",
+        "primary-type": "Album"
+      },
+      "date": "2008",
+      "country": "AU",
+      "release-events": [
+        {
+          "date": "2008",
+          "area": {
+            "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+            "name": "Australia",
+            "sort-name": "Australia",
+            "iso-3166-1-codes": ["AU"]
+          }
+        }
+      ],
+      "barcode": "602517717282",
+      "label-info": [
+        {
+          "catalog-number": "1771728",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 16,
+      "media": [{ "format": "CD", "disc-count": 1, "track-count": 16 }]
+    },
+    {
+      "id": "66de4950-2d0b-411b-a6b4-95e345695297",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Good Girl Gone Bad: Reloaded",
+      "status": "Official",
+      "disambiguation": "special Indonesia edition",
+      "packaging": "Jewel Case",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "7e48f018-b774-32e6-a68b-b42db04535c0",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Good Girl Gone Bad",
+        "primary-type": "Album"
+      },
+      "date": "2008",
+      "country": "ID",
+      "release-events": [
+        {
+          "date": "2008",
+          "area": {
+            "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+            "name": "Indonesia",
+            "sort-name": "Indonesia",
+            "iso-3166-1-codes": ["ID"]
+          }
+        }
+      ],
+      "barcode": "602517757547",
+      "label-info": [
+        {
+          "catalog-number": "177 575-4",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [{ "format": "CD", "disc-count": 1, "track-count": 15 }]
+    },
+    {
+      "id": "3d5358b7-a690-41e9-a176-94e2920271b0",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Unapologetic",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "1ab3ba95-bc96-46f4-bc6d-1e57bc6ad1a0",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Unapologetic",
+        "primary-type": "Album"
+      },
+      "date": "2012",
+      "country": "ZA",
+      "release-events": [
+        {
+          "date": "2012",
+          "area": {
+            "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+            "name": "South Africa",
+            "sort-name": "South Africa",
+            "iso-3166-1-codes": ["ZA"]
+          }
+        }
+      ],
+      "barcode": "0602537220595",
+      "label-info": [
+        {
+          "label": {
+            "id": "5664c7ca-002a-458b-943e-abbcd7993f22",
+            "name": "SRP Records"
+          }
+        },
+        {
+          "label": {
+            "id": "7204e52a-64c8-4a48-9bca-079359ee9d3f",
+            "name": "Roc Nation"
+          }
+        },
+        {
+          "catalog-number": "060253722059 (172)",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 14,
+      "media": [{ "format": "CD", "disc-count": 0, "track-count": 14 }]
+    },
+    {
+      "id": "1d67168e-5aad-4f55-860a-7d0ff1d8f8ae",
+      "score": 100,
+      "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "count": 1,
+      "title": "A Girl Like Me",
+      "status": "Promotion",
+      "disambiguation": "album sampler",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "51797d3d-7071-30ee-9fb3-d60aad857ef0",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "A Girl Like Me",
+        "primary-type": "Album"
+      },
+      "date": "2006",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2006",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": ["US"]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "DEFF 16504-2",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        },
+        {
+          "label": {
+            "id": "5664c7ca-002a-458b-943e-abbcd7993f22",
+            "name": "SRP Records"
+          }
+        }
+      ],
+      "track-count": 5,
+      "media": [{ "format": "CD", "disc-count": 1, "track-count": 5 }]
+    },
+    {
+      "id": "768695cf-35fa-4919-9090-25c5200e6836",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "dfb7da53-866f-4dfd-a016-80bafaeff3db",
+      "count": 1,
+      "title": "Good Girl Gone Bad",
+      "status": "Official",
+      "packaging": "Super Jewel Box",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "7e48f018-b774-32e6-a68b-b42db04535c0",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Good Girl Gone Bad",
+        "primary-type": "Album"
+      },
+      "date": "2007-06-04",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "2007-06-04",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": ["GB"]
+          }
+        }
+      ],
+      "barcode": "602517351097",
+      "asin": "B000PHX1ZY",
+      "label-info": [
+        {
+          "label": {
+            "id": "5664c7ca-002a-458b-943e-abbcd7993f22",
+            "name": "SRP Records"
+          }
+        },
+        {
+          "catalog-number": "1735109",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        },
+        {
+          "catalog-number": "1735109",
+          "label": {
+            "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+            "name": "Mercury Records"
+          }
+        }
+      ],
+      "track-count": 13,
+      "media": [{ "format": "CD", "disc-count": 1, "track-count": 13 }]
+    },
+    {
+      "id": "4592e9f6-a9ae-43e6-8a2a-7bba970b294e",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Talk That Talk",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "15818ec5-bf34-47de-a4e5-260f98828d64",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Talk That Talk",
+        "primary-type": "Album"
+      },
+      "date": "2011-11-18",
+      "country": "XE",
+      "release-events": [
+        {
+          "date": "2011-11-18",
+          "area": {
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "name": "Europe",
+            "sort-name": "Europe",
+            "iso-3166-1-codes": ["XE"]
+          }
+        }
+      ],
+      "barcode": "602527878409",
+      "asin": "B005TZFYNE",
+      "label-info": [
+        {
+          "catalog-number": "602527878409",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        },
+        {
+          "label": {
+            "id": "5664c7ca-002a-458b-943e-abbcd7993f22",
+            "name": "SRP Records"
+          }
+        }
+      ],
+      "track-count": 11,
+      "media": [{ "format": "CD", "disc-count": 1, "track-count": 11 }],
+      "tags": [{ "count": 1, "name": "multiple release dates" }]
+    },
+    {
+      "id": "6017d9ff-71bd-42c3-acde-373032dd2472",
+      "score": 100,
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "count": 1,
+      "title": "Devil in a Blue Dress",
+      "status": "Bootleg",
+      "packaging": "None",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "183ff781-a601-4433-bb4b-5f30f67dfd7b",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Devil in a Blue Dress",
+        "primary-type": "Album",
+        "secondary-types": ["Compilation"],
+        "secondary-type-ids": ["dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"]
+      },
+      "date": "2012",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2012",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": ["US"]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "[none]",
+          "label": {
+            "id": "157afde4-4bf5-4039-8ad2-5a15acc85176",
+            "name": "[no label]"
+          }
+        }
+      ],
+      "track-count": 17,
+      "media": [{ "format": "CD-R", "disc-count": 0, "track-count": 17 }]
+    },
+    {
+      "id": "a3fa93d8-13b5-41e0-8c9c-2d53ac5194cd",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+      "count": 1,
+      "title": "Rated R",
+      "status": "Official",
+      "disambiguation": "explicit limited pur edition",
+      "packaging": "Digipak",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "06fda337-5c4b-42e0-a96c-a349c786965f",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Rated R",
+        "primary-type": "Album"
+      },
+      "date": "2010-07-09",
+      "country": "DE",
+      "release-events": [
+        {
+          "date": "2010-07-09",
+          "area": {
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+            "name": "Germany",
+            "sort-name": "Germany",
+            "iso-3166-1-codes": ["DE"]
+          }
+        }
+      ],
+      "barcode": "600753277492",
+      "asin": "B003GDYMUM",
+      "label-info": [
+        {
+          "catalog-number": "0600753277492",
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 13,
+      "media": [{ "format": "CD", "disc-count": 1, "track-count": 13 }]
+    },
+    {
+      "id": "3d5c52e5-5d76-4320-af82-f45a6fd9b5d2",
+      "score": 100,
+      "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "count": 1,
+      "title": "Rude Boy (Remixes)",
+      "status": "Promotion",
+      "packaging": "None",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "fc666bbe-ace7-4fb6-b623-8a4328c0ba71",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "Rude Boy",
+        "primary-type": "Single"
+      },
+      "date": "2010",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2010",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": ["US"]
+          }
+        }
+      ],
+      "track-count": 7,
+      "media": [{ "format": "CD", "disc-count": 0, "track-count": 7 }]
+    },
+    {
+      "id": "20a4aa7f-aba6-48b8-a88b-56da8c5eed16",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "count": 1,
+      "title": "Rated R",
+      "status": "Official",
+      "disambiguation": "explicit",
+      "packaging": "None",
+      "text-representation": { "language": "eng", "script": "Latn" },
+      "artist-credit": [
+        {
+          "name": "Rihanna",
+          "artist": {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna",
+            "sort-name": "Rihanna",
+            "disambiguation": "Barbadian R&B/pop singer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "06fda337-5c4b-42e0-a96c-a349c786965f",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Rated R",
+        "primary-type": "Album"
+      },
+      "date": "2009-11-23",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2009-11-23",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": ["US"]
+          }
+        }
+      ],
+      "barcode": "602527283715",
+      "label-info": [
+        {
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          }
+        }
+      ],
+      "track-count": 13,
+      "media": [
+        { "format": "Digital Media", "disc-count": 0, "track-count": 13 }
+      ]
+    }
+  ]
+}
